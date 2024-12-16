@@ -6,7 +6,7 @@
 
 I love tackling real-world problems by trying to create solutions that we see in our everyday life. These solutions vary from trying to improve previous ideas by adding on or create new one's from scratch. I’m big on continuously learning and building my skills, in order to become a better developer and experience throughout the technology industry  (Ask me about growing my technical skills and leadership as a [Break Through Tech Fellow](https://www.breakthroughtech.org)! I’m looking to leverage and grow my skills in an opportunity where I can contribute to exciting projects that have an instant impact on others and where I can learn from industry professionals.
 
-## 🎯 Featured Project: Interactive AI Travel Planner for DXC Technology
+## 🎯 Featured Project: Interactive AI Travel Planner for DXC Technology (Break Through Tech AI Program)
 
 **What We Did:** User API's as a data source, user input for preferences, and OpenAI to generate personalized itineraries for users. Cleaned JSON output from SerpAPIs and engineered prompted OpenAI.  <br>
 **Tools:** Python, OpenAI, Google Hotels SerpApi, Google Flights SerpApi, Flask, MYSQLAlchemy, Javascript, HTML/CSS <br>
